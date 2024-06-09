@@ -4,4 +4,4 @@ The repository contains the notes I make while preparing for technical interview
 
 Documentation is done using [Obsidian](https://obsidian.md/).
 
-Leetcode problems are taken from the curated list of [Grind 75](https://www.techinterviewhandbook.org/grind75?order=difficulty&weeks=26).
+Leetcode problems are taken from the curated list of [Grind 75](https://www.techinterviewhandbook.org/grind75?order=difficulty&weeks=26), [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/), and [Neetcode](https://neetcode.io/practice).
