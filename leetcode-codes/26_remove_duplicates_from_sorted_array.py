@@ -13,4 +13,6 @@ class Solution:
         return l + 1
 
 solution = Solution()
-solution.removeDuplicates([1, 1, 2])
+nums=[1, 1, 2]
+print(solution.removeDuplicates(nums))
+print(nums)
